@@ -9,8 +9,8 @@ otherwise you should get an error message saying the url you try to load does no
 
 /******************** GLOBAL VARIABLES ********************/
 var SCOPES = ['https://www.googleapis.com/auth/drive','profile'];
-var CLIENT_ID = '82203128747-qldo09n4ae88gpvtqd1kh5tkhfd9esvn.apps.googleusercontent.com';
-var API_KEY = '';
+var CLIENT_ID = '315726105263-s8jgnnn4b29r0rlp05gt53at9ar432l1.apps.googleusercontent.com';
+var API_KEY = 'fWZjjrRqUG-BVC3zduF03Q_D';
 var FOLDER_NAME = "";
 var FOLDER_ID = "root";
 var FOLDER_PERMISSION = true;
